@@ -1,0 +1,17 @@
+Tokenization in NLP  
+-------------------------
+
+corpus - paragraph
+
+Documents - sentences
+
+vocabulary - unique words
+
+words
+
+Tokenization- Tokenization is the process of breaking text 
+into smaller units/chunks/sentences/words called tokens 
+
+Stemming - Stemming is the process of reducing the word to its 
+word stem that affixes to suffixes and prefixes or to the roots
+of words known as lemma . 
