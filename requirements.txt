@@ -7,3 +7,7 @@ flask
 memory_profiler
 streamlit
 nltk
+tensorflow
+scikit-learn
+tensorboard
+
